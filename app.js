@@ -53,7 +53,7 @@ console.log("EXERCISE 3:\n==========\n");
 
   console.log("EXERCISE 5:\n==========\n");
 
-  users.sort((a, b) => b.name - a.name); 
+  users.sort((a, b) => b.score - a.score); 
 
 console.log(users);
 
